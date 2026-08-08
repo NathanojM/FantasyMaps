@@ -22,5 +22,5 @@ It will automatically generate fantasy-style names for each feature.
 
 # How to Use
 1. Download the repo
-2. Open the .QGZ file in QGIS, and run the Fantasy Map Model from the toolbox to generate an island
+2. Open the .QGZ file in QGIS, and run the Fantasy Map Model from the toolbox to generate an island (it should already be there within the project, but it's also included in the repo as FantasyMap.model3).
 3. Run Terrain.py on the output layer via the QGIS Python console and it will automatically populate the island
