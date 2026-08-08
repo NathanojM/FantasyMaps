@@ -1,0 +1,11 @@
+Mother
+Brother
+Father
+Sister
+Bard
+Mr
+Miss
+Mrs
+Farmer
+Trader
+Gardener

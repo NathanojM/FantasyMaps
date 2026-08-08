@@ -1,0 +1,58 @@
+Saint
+Lord
+Mother
+Brother
+Father
+Sister
+Emperor
+President
+Saviour
+Wizard
+Bishop
+Princess
+Bard
+Master
+Sir
+Sire
+Lady
+King
+Queen
+Count
+Prince
+Baron
+Knight
+Dame
+Professor
+Mr
+Doctor
+Miss
+Mrs
+Farmer
+Innkeeper
+Trader
+Captain
+General
+Private
+Redeemer
+The Prophet
+Witch
+Magician
+Nurse
+Kaiser
+Explorer
+His Majesty
+Her Majesty
+His Excellency
+Her Excellency
+Dictaror
+Warlock
+Dragon
+Slayer
+The Dear
+Dearest
+The Beloved
+The Almighty
+Mage
+Our Lady
+Our Lord
+Warrior

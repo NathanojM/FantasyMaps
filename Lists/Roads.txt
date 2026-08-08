@@ -1,0 +1,17 @@
+Path
+Way
+Road
+Footpath
+Avenue
+Highway
+Lane
+Passage
+Pathway
+Track
+Walkway
+Trail
+Byway
+Shortcut
+Pass
+Walk
+Alley

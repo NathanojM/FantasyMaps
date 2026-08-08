@@ -1,0 +1,7 @@
+Quarry
+Mine
+Pit
+Fields
+Dig
+Trenches
+Excavation
